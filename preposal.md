@@ -1,5 +1,5 @@
 # Preproposal
-
+- Pokedex
 ## What idea(s) do you have for your final project?
 
 TODO
